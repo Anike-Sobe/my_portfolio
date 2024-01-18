@@ -1,2 +1,2 @@
 # my_portfolio
-my portfolio website
+my coding portfolio website
